@@ -47,5 +47,7 @@ I decided to use different component values that those used in the tutorial beca
 
 # Photos
 
-![Heartbeat](images/demo.png)
+![Heartbeat](images/heartbeat.png)
+![Heartbeat](images/heartbeat2.png)
+
 
