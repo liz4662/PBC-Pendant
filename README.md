@@ -40,4 +40,12 @@ These components must be soldered onto the PCB board acording to the Kicad leayo
 
 # Technical Details
 
-While designing my PCB layout, I had to 
+While designing my PCB layout, I had to take into consideration what design I wanted to have on order to effectively place each part of the PCB. After placing each part strategically round the timer chip and adding my design. I generated the svg files for the drill holes, edge cuts and traces. Using these files I was able to carve my PCB pendantusing a Carvey CNC.
+
+# Soldering Components
+I decided to use different component values that those used in the tutorial because I wanted a higher flashing frequency. During the soldering process, I had to be very careful considering that my traces and copper pads were very tiny. It took a lot of pacience and presision to make sure the solder was not making unnecessary connections. The most difficult part was sodlering the timer chip since for some of the pins there was very little pad to event make contact with. I got the LED to flash and everything looked perfect but since I had my pendant in my backpack I later realized the led light accidentally snapped off of the board and with it took the copper pad it was connected to and damaged the traces connected to them so I had to create a bridge of solder that could connect these diconnected parts. It was challenging but very satisfying when I was able to fix the connections and see my LED flashing again.
+
+# Photos
+
+![Heartbeat](images/demo.png)
+
