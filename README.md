@@ -35,6 +35,8 @@ These components must be soldered onto the PCB board acording to the Kicad leayo
 
 
 # Finished Product
+<video src="Videos/heartbeat.mp4" width="320" height="240" controls></video>
+
 
 # Technical Details
 
